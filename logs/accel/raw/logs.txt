@@ -1,0 +1,1202 @@
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+{"accel_z": 0, "accel_x": 47, "accel_y": 0}
+{"accel_z": 0, "accel_x": 48, "accel_y": 0}
+{"accel_z": 0, "accel_x": 49, "accel_y": 0}
+{"accel_z": 0, "accel_x": 50, "accel_y": 0}
+{"accel_z": 0, "accel_x": 51, "accel_y": 0}
+{"accel_z": 0, "accel_x": 52, "accel_y": 0}
+{"accel_z": 0, "accel_x": 53, "accel_y": 0}
+{"accel_z": 0, "accel_x": 54, "accel_y": 0}
+{"accel_z": 0, "accel_x": 55, "accel_y": 0}
+{"accel_z": 0, "accel_x": 56, "accel_y": 0}
+{"accel_z": 0, "accel_x": 57, "accel_y": 0}
+{"accel_z": 0, "accel_x": 58, "accel_y": 0}
+{"accel_z": 0, "accel_x": 59, "accel_y": 0}
+{"accel_z": 0, "accel_x": 60, "accel_y": 0}
+{"accel_z": 0, "accel_x": 61, "accel_y": 0}
+{"accel_z": 0, "accel_x": 62, "accel_y": 0}
+{"accel_z": 0, "accel_x": 63, "accel_y": 0}
+{"accel_z": 0, "accel_x": 64, "accel_y": 0}
+{"accel_z": 0, "accel_x": 65, "accel_y": 0}
+{"accel_z": 0, "accel_x": 66, "accel_y": 0}
+{"accel_z": 0, "accel_x": 67, "accel_y": 0}
+{"accel_z": 0, "accel_x": 68, "accel_y": 0}
+{"accel_z": 0, "accel_x": 69, "accel_y": 0}
+{"accel_z": 0, "accel_x": 70, "accel_y": 0}
+{"accel_z": 0, "accel_x": 71, "accel_y": 0}
+{"accel_z": 0, "accel_x": 72, "accel_y": 0}
+{"accel_z": 0, "accel_x": 73, "accel_y": 0}
+{"accel_z": 0, "accel_x": 74, "accel_y": 0}
+{"accel_z": 0, "accel_x": 75, "accel_y": 0}
+{"accel_z": 0, "accel_x": 76, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+{"accel_z": 0, "accel_x": 80, "accel_y": 0}
+{"accel_z": 0, "accel_x": 81, "accel_y": 0}
+{"accel_z": 0, "accel_x": 82, "accel_y": 0}
+{"accel_z": 0, "accel_x": 83, "accel_y": 0}
+{"accel_z": 0, "accel_x": 84, "accel_y": 0}
+{"accel_z": 0, "accel_x": 85, "accel_y": 0}
+{"accel_z": 0, "accel_x": 86, "accel_y": 0}
+{"accel_z": 0, "accel_x": 87, "accel_y": 0}
+{"accel_z": 0, "accel_x": 88, "accel_y": 0}
+{"accel_z": 0, "accel_x": 89, "accel_y": 0}
+{"accel_z": 0, "accel_x": 90, "accel_y": 0}
+{"accel_z": 0, "accel_x": 91, "accel_y": 0}
+{"accel_z": 0, "accel_x": 92, "accel_y": 0}
+{"accel_z": 0, "accel_x": 93, "accel_y": 0}
+{"accel_z": 0, "accel_x": 94, "accel_y": 0}
+{"accel_z": 0, "accel_x": 95, "accel_y": 0}
+{"accel_z": 0, "accel_x": 96, "accel_y": 0}
+{"accel_z": 0, "accel_x": 97, "accel_y": 0}
+{"accel_z": 0, "accel_x": 98, "accel_y": 0}
+{"accel_z": 0, "accel_x": 99, "accel_y": 0}
+{"accel_z": 0, "accel_x": 100, "accel_y": 0}
+{"accel_z": 0, "accel_x": 101, "accel_y": 0}
+{"accel_z": 0, "accel_x": 102, "accel_y": 0}
+{"accel_z": 0, "accel_x": 103, "accel_y": 0}
+{"accel_z": 0, "accel_x": 104, "accel_y": 0}
+{"accel_z": 0, "accel_x": 105, "accel_y": 0}
+{"accel_z": 0, "accel_x": 106, "accel_y": 0}
+{"accel_z": 0, "accel_x": 107, "accel_y": 0}
+{"accel_z": 0, "accel_x": 108, "accel_y": 0}
+{"accel_z": 0, "accel_x": 109, "accel_y": 0}
+{"accel_z": 0, "accel_x": 110, "accel_y": 0}
+{"accel_z": 0, "accel_x": 111, "accel_y": 0}
+{"accel_z": 0, "accel_x": 112, "accel_y": 0}
+{"accel_z": 0, "accel_x": 113, "accel_y": 0}
+{"accel_z": 0, "accel_x": 114, "accel_y": 0}
+{"accel_z": 0, "accel_x": 115, "accel_y": 0}
+{"accel_z": 0, "accel_x": 116, "accel_y": 0}
+{"accel_z": 0, "accel_x": 117, "accel_y": 0}
+{"accel_z": 0, "accel_x": 118, "accel_y": 0}
+{"accel_z": 0, "accel_x": 119, "accel_y": 0}
+{"accel_z": 0, "accel_x": 120, "accel_y": 0}
+{"accel_z": 0, "accel_x": 121, "accel_y": 0}
+{"accel_z": 0, "accel_x": 122, "accel_y": 0}
+{"accel_z": 0, "accel_x": 123, "accel_y": 0}
+{"accel_z": 0, "accel_x": 124, "accel_y": 0}
+{"accel_z": 0, "accel_x": 125, "accel_y": 0}
+{"accel_z": 0, "accel_x": 126, "accel_y": 0}
+{"accel_z": 0, "accel_x": 127, "accel_y": 0}
+{"accel_z": 0, "accel_x": 128, "accel_y": 0}
+{"accel_z": 0, "accel_x": 129, "accel_y": 0}
+{"accel_z": 0, "accel_x": 130, "accel_y": 0}
+{"accel_z": 0, "accel_x": 131, "accel_y": 0}
+{"accel_z": 0, "accel_x": 132, "accel_y": 0}
+{"accel_z": 0, "accel_x": 133, "accel_y": 0}
+{"accel_z": 0, "accel_x": 134, "accel_y": 0}
+{"accel_z": 0, "accel_x": 135, "accel_y": 0}
+{"accel_z": 0, "accel_x": 136, "accel_y": 0}
+{"accel_z": 0, "accel_x": 137, "accel_y": 0}
+{"accel_z": 0, "accel_x": 138, "accel_y": 0}
+{"accel_z": 0, "accel_x": 139, "accel_y": 0}
+{"accel_z": 0, "accel_x": 140, "accel_y": 0}
+{"accel_z": 0, "accel_x": 141, "accel_y": 0}
+{"accel_z": 0, "accel_x": 142, "accel_y": 0}
+{"accel_z": 0, "accel_x": 143, "accel_y": 0}
+{"accel_z": 0, "accel_x": 144, "accel_y": 0}
+{"accel_z": 0, "accel_x": 145, "accel_y": 0}
+{"accel_z": 0, "accel_x": 146, "accel_y": 0}
+{"accel_z": 0, "accel_x": 147, "accel_y": 0}
+{"accel_z": 0, "accel_x": 148, "accel_y": 0}
+{"accel_z": 0, "accel_x": 149, "accel_y": 0}
+{"accel_z": 0, "accel_x": 150, "accel_y": 0}
+{"accel_z": 0, "accel_x": 151, "accel_y": 0}
+{"accel_z": 0, "accel_x": 152, "accel_y": 0}
+{"accel_z": 0, "accel_x": 153, "accel_y": 0}
+{"accel_z": 0, "accel_x": 154, "accel_y": 0}
+{"accel_z": 0, "accel_x": 155, "accel_y": 0}
+{"accel_z": 0, "accel_x": 156, "accel_y": 0}
+{"accel_z": 0, "accel_x": 157, "accel_y": 0}
+{"accel_z": 0, "accel_x": 158, "accel_y": 0}
+{"accel_z": 0, "accel_x": 159, "accel_y": 0}
+{"accel_z": 0, "accel_x": 160, "accel_y": 0}
+{"accel_z": 0, "accel_x": 161, "accel_y": 0}
+{"accel_z": 0, "accel_x": 162, "accel_y": 0}
+{"accel_z": 0, "accel_x": 163, "accel_y": 0}
+{"accel_z": 0, "accel_x": 164, "accel_y": 0}
+{"accel_z": 0, "accel_x": 165, "accel_y": 0}
+{"accel_z": 0, "accel_x": 166, "accel_y": 0}
+{"accel_z": 0, "accel_x": 167, "accel_y": 0}
+{"accel_z": 0, "accel_x": 168, "accel_y": 0}
+{"accel_z": 0, "accel_x": 169, "accel_y": 0}
+{"accel_z": 0, "accel_x": 170, "accel_y": 0}
+{"accel_z": 0, "accel_x": 171, "accel_y": 0}
+{"accel_z": 0, "accel_x": 172, "accel_y": 0}
+{"accel_z": 0, "accel_x": 173, "accel_y": 0}
+{"accel_z": 0, "accel_x": 174, "accel_y": 0}
+{"accel_z": 0, "accel_x": 175, "accel_y": 0}
+{"accel_z": 0, "accel_x": 176, "accel_y": 0}
+{"accel_z": 0, "accel_x": 177, "accel_y": 0}
+{"accel_z": 0, "accel_x": 178, "accel_y": 0}
+{"accel_z": 0, "accel_x": 179, "accel_y": 0}
+{"accel_z": 0, "accel_x": 180, "accel_y": 0}
+{"accel_z": 0, "accel_x": 181, "accel_y": 0}
+{"accel_z": 0, "accel_x": 182, "accel_y": 0}
+{"accel_z": 0, "accel_x": 183, "accel_y": 0}
+{"accel_z": 0, "accel_x": 184, "accel_y": 0}
+{"accel_z": 0, "accel_x": 185, "accel_y": 0}
+{"accel_z": 0, "accel_x": 186, "accel_y": 0}
+{"accel_z": 0, "accel_x": 187, "accel_y": 0}
+{"accel_z": 0, "accel_x": 188, "accel_y": 0}
+{"accel_z": 0, "accel_x": 189, "accel_y": 0}
+{"accel_z": 0, "accel_x": 190, "accel_y": 0}
+{"accel_z": 0, "accel_x": 191, "accel_y": 0}
+{"accel_z": 0, "accel_x": 192, "accel_y": 0}
+{"accel_z": 0, "accel_x": 193, "accel_y": 0}
+{"accel_z": 0, "accel_x": 194, "accel_y": 0}
+{"accel_z": 0, "accel_x": 195, "accel_y": 0}
+{"accel_z": 0, "accel_x": 196, "accel_y": 0}
+{"accel_z": 0, "accel_x": 197, "accel_y": 0}
+{"accel_z": 0, "accel_x": 198, "accel_y": 0}
+{"accel_z": 0, "accel_x": 199, "accel_y": 0}
+{"accel_z": 0, "accel_x": 200, "accel_y": 0}
+{"accel_z": 0, "accel_x": 201, "accel_y": 0}
+{"accel_z": 0, "accel_x": 202, "accel_y": 0}
+{"accel_z": 0, "accel_x": 203, "accel_y": 0}
+{"accel_z": 0, "accel_x": 204, "accel_y": 0}
+{"accel_z": 0, "accel_x": 205, "accel_y": 0}
+{"accel_z": 0, "accel_x": 206, "accel_y": 0}
+{"accel_z": 0, "accel_x": 207, "accel_y": 0}
+{"accel_z": 0, "accel_x": 208, "accel_y": 0}
+{"accel_z": 0, "accel_x": 209, "accel_y": 0}
+{"accel_z": 0, "accel_x": 210, "accel_y": 0}
+{"accel_z": 0, "accel_x": 211, "accel_y": 0}
+{"accel_z": 0, "accel_x": 212, "accel_y": 0}
+{"accel_z": 0, "accel_x": 213, "accel_y": 0}
+{"accel_z": 0, "accel_x": 214, "accel_y": 0}
+{"accel_z": 0, "accel_x": 215, "accel_y": 0}
+{"accel_z": 0, "accel_x": 216, "accel_y": 0}
+{"accel_z": 0, "accel_x": 217, "accel_y": 0}
+{"accel_z": 0, "accel_x": 218, "accel_y": 0}
+{"accel_z": 0, "accel_x": 219, "accel_y": 0}
+{"accel_z": 0, "accel_x": 220, "accel_y": 0}
+{"accel_z": 0, "accel_x": 221, "accel_y": 0}
+{"accel_z": 0, "accel_x": 222, "accel_y": 0}
+{"accel_z": 0, "accel_x": 223, "accel_y": 0}
+{"accel_z": 0, "accel_x": 224, "accel_y": 0}
+{"accel_z": 0, "accel_x": 225, "accel_y": 0}
+{"accel_z": 0, "accel_x": 226, "accel_y": 0}
+{"accel_z": 0, "accel_x": 227, "accel_y": 0}
+{"accel_z": 0, "accel_x": 228, "accel_y": 0}
+{"accel_z": 0, "accel_x": 229, "accel_y": 0}
+{"accel_z": 0, "accel_x": 230, "accel_y": 0}
+{"accel_z": 0, "accel_x": 231, "accel_y": 0}
+{"accel_z": 0, "accel_x": 232, "accel_y": 0}
+{"accel_z": 0, "accel_x": 233, "accel_y": 0}
+{"accel_z": 0, "accel_x": 234, "accel_y": 0}
+{"accel_z": 0, "accel_x": 235, "accel_y": 0}
+{"accel_z": 0, "accel_x": 236, "accel_y": 0}
+{"accel_z": 0, "accel_x": 237, "accel_y": 0}
+{"accel_z": 0, "accel_x": 238, "accel_y": 0}
+{"accel_z": 0, "accel_x": 239, "accel_y": 0}
+{"accel_z": 0, "accel_x": 240, "accel_y": 0}
+{"accel_z": 0, "accel_x": 241, "accel_y": 0}
+{"accel_z": 0, "accel_x": 242, "accel_y": 0}
+{"accel_z": 0, "accel_x": 243, "accel_y": 0}
+{"accel_z": 0, "accel_x": 244, "accel_y": 0}
+{"accel_z": 0, "accel_x": 245, "accel_y": 0}
+{"accel_z": 0, "accel_x": 246, "accel_y": 0}
+{"accel_z": 0, "accel_x": 247, "accel_y": 0}
+{"accel_z": 0, "accel_x": 248, "accel_y": 0}
+{"accel_z": 0, "accel_x": 249, "accel_y": 0}
+{"accel_z": 0, "accel_x": 250, "accel_y": 0}
+{"accel_z": 0, "accel_x": 251, "accel_y": 0}
+{"accel_z": 0, "accel_x": 252, "accel_y": 0}
+{"accel_z": 0, "accel_x": 253, "accel_y": 0}
+{"accel_z": 0, "accel_x": 254, "accel_y": 0}
+{"accel_z": 0, "accel_x": 255, "accel_y": 0}
+{"accel_z": 0, "accel_x": 256, "accel_y": 0}
+{"accel_z": 0, "accel_x": 257, "accel_y": 0}
+{"accel_z": 0, "accel_x": 258, "accel_y": 0}
+{"accel_z": 0, "accel_x": 259, "accel_y": 0}
+{"accel_z": 0, "accel_x": 260, "accel_y": 0}
+{"accel_z": 0, "accel_x": 261, "accel_y": 0}
+{"accel_z": 0, "accel_x": 262, "accel_y": 0}
+{"accel_z": 0, "accel_x": 263, "accel_y": 0}
+{"accel_z": 0, "accel_x": 264, "accel_y": 0}
+{"accel_z": 0, "accel_x": 265, "accel_y": 0}
+{"accel_z": 0, "accel_x": 266, "accel_y": 0}
+{"accel_z": 0, "accel_x": 267, "accel_y": 0}
+{"accel_z": 0, "accel_x": 268, "accel_y": 0}
+{"accel_z": 0, "accel_x": 269, "accel_y": 0}
+{"accel_z": 0, "accel_x": 270, "accel_y": 0}
+{"accel_z": 0, "accel_x": 271, "accel_y": 0}
+{"accel_z": 0, "accel_x": 272, "accel_y": 0}
+{"accel_z": 0, "accel_x": 273, "accel_y": 0}
+{"accel_z": 0, "accel_x": 274, "accel_y": 0}
+{"accel_z": 0, "accel_x": 275, "accel_y": 0}
+{"accel_z": 0, "accel_x": 276, "accel_y": 0}
+{"accel_z": 0, "accel_x": 277, "accel_y": 0}
+{"accel_z": 0, "accel_x": 278, "accel_y": 0}
+{"accel_z": 0, "accel_x": 279, "accel_y": 0}
+{"accel_z": 0, "accel_x": 280, "accel_y": 0}
+{"accel_z": 0, "accel_x": 281, "accel_y": 0}
+{"accel_z": 0, "accel_x": 282, "accel_y": 0}
+{"accel_z": 0, "accel_x": 283, "accel_y": 0}
+{"accel_z": 0, "accel_x": 284, "accel_y": 0}
+{"accel_z": 0, "accel_x": 285, "accel_y": 0}
+{"accel_z": 0, "accel_x": 286, "accel_y": 0}
+{"accel_z": 0, "accel_x": 287, "accel_y": 0}
+{"accel_z": 0, "accel_x": 288, "accel_y": 0}
+{"accel_z": 0, "accel_x": 289, "accel_y": 0}
+{"accel_z": 0, "accel_x": 290, "accel_y": 0}
+{"accel_z": 0, "accel_x": 291, "accel_y": 0}
+{"accel_z": 0, "accel_x": 292, "accel_y": 0}
+{"accel_z": 0, "accel_x": 293, "accel_y": 0}
+{"accel_z": 0, "accel_x": 294, "accel_y": 0}
+{"accel_z": 0, "accel_x": 295, "accel_y": 0}
+{"accel_z": 0, "accel_x": 296, "accel_y": 0}
+{"accel_z": 0, "accel_x": 297, "accel_y": 0}
+{"accel_z": 0, "accel_x": 298, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+{"accel_z": 0, "accel_x": 47, "accel_y": 0}
+{"accel_z": 0, "accel_x": 48, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+{"accel_z": 0, "accel_x": 47, "accel_y": 0}
+{"accel_z": 0, "accel_x": 48, "accel_y": 0}
+{"accel_z": 0, "accel_x": 49, "accel_y": 0}
+{"accel_z": 0, "accel_x": 50, "accel_y": 0}
+{"accel_z": 0, "accel_x": 51, "accel_y": 0}
+{"accel_z": 0, "accel_x": 52, "accel_y": 0}
+{"accel_z": 0, "accel_x": 53, "accel_y": 0}
+{"accel_z": 0, "accel_x": 54, "accel_y": 0}
+{"accel_z": 0, "accel_x": 55, "accel_y": 0}
+{"accel_z": 0, "accel_x": 56, "accel_y": 0}
+{"accel_z": 0, "accel_x": 57, "accel_y": 0}
+{"accel_z": 0, "accel_x": 58, "accel_y": 0}
+{"accel_z": 0, "accel_x": 59, "accel_y": 0}
+{"accel_z": 0, "accel_x": 60, "accel_y": 0}
+{"accel_z": 0, "accel_x": 61, "accel_y": 0}
+{"accel_z": 0, "accel_x": 62, "accel_y": 0}
+{"accel_z": 0, "accel_x": 63, "accel_y": 0}
+{"accel_z": 0, "accel_x": 64, "accel_y": 0}
+{"accel_z": 0, "accel_x": 65, "accel_y": 0}
+{"accel_z": 0, "accel_x": 66, "accel_y": 0}
+{"accel_z": 0, "accel_x": 67, "accel_y": 0}
+{"accel_z": 0, "accel_x": 68, "accel_y": 0}
+{"accel_z": 0, "accel_x": 69, "accel_y": 0}
+{"accel_z": 0, "accel_x": 70, "accel_y": 0}
+{"accel_z": 0, "accel_x": 71, "accel_y": 0}
+{"accel_z": 0, "accel_x": 72, "accel_y": 0}
+{"accel_z": 0, "accel_x": 73, "accel_y": 0}
+{"accel_z": 0, "accel_x": 74, "accel_y": 0}
+{"accel_z": 0, "accel_x": 75, "accel_y": 0}
+{"accel_z": 0, "accel_x": 76, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+{"accel_z": 0, "accel_x": 80, "accel_y": 0}
+{"accel_z": 0, "accel_x": 81, "accel_y": 0}
+{"accel_z": 0, "accel_x": 82, "accel_y": 0}
+{"accel_z": 0, "accel_x": 83, "accel_y": 0}
+{"accel_z": 0, "accel_x": 84, "accel_y": 0}
+{"accel_z": 0, "accel_x": 85, "accel_y": 0}
+{"accel_z": 0, "accel_x": 86, "accel_y": 0}
+{"accel_z": 0, "accel_x": 87, "accel_y": 0}
+{"accel_z": 0, "accel_x": 88, "accel_y": 0}
+{"accel_z": 0, "accel_x": 89, "accel_y": 0}
+{"accel_z": 0, "accel_x": 90, "accel_y": 0}
+{"accel_z": 0, "accel_x": 91, "accel_y": 0}
+{"accel_z": 0, "accel_x": 92, "accel_y": 0}
+{"accel_z": 0, "accel_x": 93, "accel_y": 0}
+{"accel_z": 0, "accel_x": 94, "accel_y": 0}
+{"accel_z": 0, "accel_x": 95, "accel_y": 0}
+{"accel_z": 0, "accel_x": 96, "accel_y": 0}
+{"accel_z": 0, "accel_x": 97, "accel_y": 0}
+{"accel_z": 0, "accel_x": 98, "accel_y": 0}
+{"accel_z": 0, "accel_x": 99, "accel_y": 0}
+{"accel_z": 0, "accel_x": 100, "accel_y": 0}
+{"accel_z": 0, "accel_x": 101, "accel_y": 0}
+{"accel_z": 0, "accel_x": 102, "accel_y": 0}
+{"accel_z": 0, "accel_x": 103, "accel_y": 0}
+{"accel_z": 0, "accel_x": 104, "accel_y": 0}
+{"accel_z": 0, "accel_x": 105, "accel_y": 0}
+{"accel_z": 0, "accel_x": 106, "accel_y": 0}
+{"accel_z": 0, "accel_x": 107, "accel_y": 0}
+{"accel_z": 0, "accel_x": 108, "accel_y": 0}
+{"accel_z": 0, "accel_x": 109, "accel_y": 0}
+{"accel_z": 0, "accel_x": 110, "accel_y": 0}
+{"accel_z": 0, "accel_x": 111, "accel_y": 0}
+{"accel_z": 0, "accel_x": 112, "accel_y": 0}
+{"accel_z": 0, "accel_x": 113, "accel_y": 0}
+{"accel_z": 0, "accel_x": 114, "accel_y": 0}
+{"accel_z": 0, "accel_x": 115, "accel_y": 0}
+{"accel_z": 0, "accel_x": 116, "accel_y": 0}
+{"accel_z": 0, "accel_x": 117, "accel_y": 0}
+{"accel_z": 0, "accel_x": 118, "accel_y": 0}
+{"accel_z": 0, "accel_x": 119, "accel_y": 0}
+{"accel_z": 0, "accel_x": 120, "accel_y": 0}
+{"accel_z": 0, "accel_x": 121, "accel_y": 0}
+{"accel_z": 0, "accel_x": 122, "accel_y": 0}
+{"accel_z": 0, "accel_x": 123, "accel_y": 0}
+{"accel_z": 0, "accel_x": 124, "accel_y": 0}
+{"accel_z": 0, "accel_x": 125, "accel_y": 0}
+{"accel_z": 0, "accel_x": 126, "accel_y": 0}
+{"accel_z": 0, "accel_x": 127, "accel_y": 0}
+{"accel_z": 0, "accel_x": 128, "accel_y": 0}
+{"accel_z": 0, "accel_x": 128, "accel_y": 0}
+{"accel_z": 0, "accel_x": 129, "accel_y": 0}
+{"accel_z": 0, "accel_x": 129, "accel_y": 0}
+{"accel_z": 0, "accel_x": 130, "accel_y": 0}
+{"accel_z": 0, "accel_x": 130, "accel_y": 0}
+{"accel_z": 0, "accel_x": 131, "accel_y": 0}
+{"accel_z": 0, "accel_x": 131, "accel_y": 0}
+{"accel_z": 0, "accel_x": 132, "accel_y": 0}
+{"accel_z": 0, "accel_x": 132, "accel_y": 0}
+{"accel_z": 0, "accel_x": 133, "accel_y": 0}
+{"accel_z": 0, "accel_x": 133, "accel_y": 0}
+{"accel_z": 0, "accel_x": 134, "accel_y": 0}
+{"accel_z": 0, "accel_x": 134, "accel_y": 0}
+{"accel_z": 0, "accel_x": 135, "accel_y": 0}
+{"accel_z": 0, "accel_x": 135, "accel_y": 0}
+{"accel_z": 0, "accel_x": 136, "accel_y": 0}
+{"accel_z": 0, "accel_x": 136, "accel_y": 0}
+{"accel_z": 0, "accel_x": 137, "accel_y": 0}
+{"accel_z": 0, "accel_x": 137, "accel_y": 0}
+{"accel_z": 0, "accel_x": 138, "accel_y": 0}
+{"accel_z": 0, "accel_x": 138, "accel_y": 0}
+{"accel_z": 0, "accel_x": 139, "accel_y": 0}
+{"accel_z": 0, "accel_x": 139, "accel_y": 0}
+{"accel_z": 0, "accel_x": 140, "accel_y": 0}
+{"accel_z": 0, "accel_x": 140, "accel_y": 0}
+{"accel_z": 0, "accel_x": 141, "accel_y": 0}
+{"accel_z": 0, "accel_x": 141, "accel_y": 0}
+{"accel_z": 0, "accel_x": 142, "accel_y": 0}
+{"accel_z": 0, "accel_x": 142, "accel_y": 0}
+{"accel_z": 0, "accel_x": 143, "accel_y": 0}
+{"accel_z": 0, "accel_x": 143, "accel_y": 0}
+{"accel_z": 0, "accel_x": 144, "accel_y": 0}
+{"accel_z": 0, "accel_x": 144, "accel_y": 0}
+{"accel_z": 0, "accel_x": 145, "accel_y": 0}
+{"accel_z": 0, "accel_x": 145, "accel_y": 0}
+{"accel_z": 0, "accel_x": 146, "accel_y": 0}
+{"accel_z": 0, "accel_x": 146, "accel_y": 0}
+{"accel_z": 0, "accel_x": 147, "accel_y": 0}
+{"accel_z": 0, "accel_x": 147, "accel_y": 0}
+{"accel_z": 0, "accel_x": 148, "accel_y": 0}
+{"accel_z": 0, "accel_x": 148, "accel_y": 0}
+{"accel_z": 0, "accel_x": 149, "accel_y": 0}
+{"accel_z": 0, "accel_x": 149, "accel_y": 0}
+{"accel_z": 0, "accel_x": 150, "accel_y": 0}
+{"accel_z": 0, "accel_x": 150, "accel_y": 0}
+{"accel_z": 0, "accel_x": 151, "accel_y": 0}
+{"accel_z": 0, "accel_x": 151, "accel_y": 0}
+{"accel_z": 0, "accel_x": 152, "accel_y": 0}
+{"accel_z": 0, "accel_x": 152, "accel_y": 0}
+{"accel_z": 0, "accel_x": 153, "accel_y": 0}
+{"accel_z": 0, "accel_x": 153, "accel_y": 0}
+{"accel_z": 0, "accel_x": 154, "accel_y": 0}
+{"accel_z": 0, "accel_x": 154, "accel_y": 0}
+{"accel_z": 0, "accel_x": 155, "accel_y": 0}
+{"accel_z": 0, "accel_x": 155, "accel_y": 0}
+{"accel_z": 0, "accel_x": 156, "accel_y": 0}
+{"accel_z": 0, "accel_x": 156, "accel_y": 0}
+{"accel_z": 0, "accel_x": 157, "accel_y": 0}
+{"accel_z": 0, "accel_x": 157, "accel_y": 0}
+no channel by that name
+connection to sensors data terminated
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+no channel by that name
+connection to sensors data terminated
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+{"accel_z": 0, "accel_x": 47, "accel_y": 0}
+{"accel_z": 0, "accel_x": 48, "accel_y": 0}
+{"accel_z": 0, "accel_x": 49, "accel_y": 0}
+{"accel_z": 0, "accel_x": 50, "accel_y": 0}
+{"accel_z": 0, "accel_x": 51, "accel_y": 0}
+{"accel_z": 0, "accel_x": 51, "accel_y": 0}
+{"accel_z": 0, "accel_x": 52, "accel_y": 0}
+{"accel_z": 0, "accel_x": 52, "accel_y": 0}
+{"accel_z": 0, "accel_x": 53, "accel_y": 0}
+{"accel_z": 0, "accel_x": 53, "accel_y": 0}
+{"accel_z": 0, "accel_x": 54, "accel_y": 0}
+{"accel_z": 0, "accel_x": 54, "accel_y": 0}
+{"accel_z": 0, "accel_x": 55, "accel_y": 0}
+{"accel_z": 0, "accel_x": 55, "accel_y": 0}
+{"accel_z": 0, "accel_x": 56, "accel_y": 0}
+{"accel_z": 0, "accel_x": 56, "accel_y": 0}
+{"accel_z": 0, "accel_x": 57, "accel_y": 0}
+{"accel_z": 0, "accel_x": 57, "accel_y": 0}
+{"accel_z": 0, "accel_x": 58, "accel_y": 0}
+{"accel_z": 0, "accel_x": 58, "accel_y": 0}
+{"accel_z": 0, "accel_x": 59, "accel_y": 0}
+{"accel_z": 0, "accel_x": 59, "accel_y": 0}
+{"accel_z": 0, "accel_x": 60, "accel_y": 0}
+{"accel_z": 0, "accel_x": 60, "accel_y": 0}
+{"accel_z": 0, "accel_x": 61, "accel_y": 0}
+{"accel_z": 0, "accel_x": 61, "accel_y": 0}
+{"accel_z": 0, "accel_x": 62, "accel_y": 0}
+{"accel_z": 0, "accel_x": 62, "accel_y": 0}
+{"accel_z": 0, "accel_x": 63, "accel_y": 0}
+{"accel_z": 0, "accel_x": 63, "accel_y": 0}
+{"accel_z": 0, "accel_x": 64, "accel_y": 0}
+{"accel_z": 0, "accel_x": 64, "accel_y": 0}
+{"accel_z": 0, "accel_x": 65, "accel_y": 0}
+{"accel_z": 0, "accel_x": 65, "accel_y": 0}
+{"accel_z": 0, "accel_x": 66, "accel_y": 0}
+{"accel_z": 0, "accel_x": 66, "accel_y": 0}
+{"accel_z": 0, "accel_x": 67, "accel_y": 0}
+{"accel_z": 0, "accel_x": 67, "accel_y": 0}
+{"accel_z": 0, "accel_x": 68, "accel_y": 0}
+{"accel_z": 0, "accel_x": 68, "accel_y": 0}
+{"accel_z": 0, "accel_x": 69, "accel_y": 0}
+{"accel_z": 0, "accel_x": 69, "accel_y": 0}
+{"accel_z": 0, "accel_x": 70, "accel_y": 0}
+{"accel_z": 0, "accel_x": 70, "accel_y": 0}
+{"accel_z": 0, "accel_x": 71, "accel_y": 0}
+{"accel_z": 0, "accel_x": 71, "accel_y": 0}
+{"accel_z": 0, "accel_x": 72, "accel_y": 0}
+{"accel_z": 0, "accel_x": 72, "accel_y": 0}
+{"accel_z": 0, "accel_x": 73, "accel_y": 0}
+{"accel_z": 0, "accel_x": 73, "accel_y": 0}
+{"accel_z": 0, "accel_x": 74, "accel_y": 0}
+{"accel_z": 0, "accel_x": 74, "accel_y": 0}
+{"accel_z": 0, "accel_x": 75, "accel_y": 0}
+{"accel_z": 0, "accel_x": 75, "accel_y": 0}
+{"accel_z": 0, "accel_x": 76, "accel_y": 0}
+{"accel_z": 0, "accel_x": 76, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+no channel by that name
+connection to sensors data terminated
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+{"accel_z": 0, "accel_x": 47, "accel_y": 0}
+{"accel_z": 0, "accel_x": 48, "accel_y": 0}
+{"accel_z": 0, "accel_x": 49, "accel_y": 0}
+{"accel_z": 0, "accel_x": 50, "accel_y": 0}
+{"accel_z": 0, "accel_x": 51, "accel_y": 0}
+{"accel_z": 0, "accel_x": 52, "accel_y": 0}
+{"accel_z": 0, "accel_x": 53, "accel_y": 0}
+{"accel_z": 0, "accel_x": 54, "accel_y": 0}
+{"accel_z": 0, "accel_x": 55, "accel_y": 0}
+{"accel_z": 0, "accel_x": 56, "accel_y": 0}
+{"accel_z": 0, "accel_x": 57, "accel_y": 0}
+{"accel_z": 0, "accel_x": 58, "accel_y": 0}
+{"accel_z": 0, "accel_x": 59, "accel_y": 0}
+{"accel_z": 0, "accel_x": 60, "accel_y": 0}
+{"accel_z": 0, "accel_x": 61, "accel_y": 0}
+{"accel_z": 0, "accel_x": 62, "accel_y": 0}
+{"accel_z": 0, "accel_x": 63, "accel_y": 0}
+{"accel_z": 0, "accel_x": 64, "accel_y": 0}
+{"accel_z": 0, "accel_x": 65, "accel_y": 0}
+{"accel_z": 0, "accel_x": 66, "accel_y": 0}
+{"accel_z": 0, "accel_x": 67, "accel_y": 0}
+{"accel_z": 0, "accel_x": 68, "accel_y": 0}
+{"accel_z": 0, "accel_x": 69, "accel_y": 0}
+{"accel_z": 0, "accel_x": 70, "accel_y": 0}
+{"accel_z": 0, "accel_x": 71, "accel_y": 0}
+{"accel_z": 0, "accel_x": 72, "accel_y": 0}
+{"accel_z": 0, "accel_x": 73, "accel_y": 0}
+{"accel_z": 0, "accel_x": 74, "accel_y": 0}
+{"accel_z": 0, "accel_x": 75, "accel_y": 0}
+{"accel_z": 0, "accel_x": 76, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 77, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 78, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+{"accel_z": 0, "accel_x": 79, "accel_y": 0}
+{"accel_z": 0, "accel_x": 80, "accel_y": 0}
+{"accel_z": 0, "accel_x": 80, "accel_y": 0}
+{"accel_z": 0, "accel_x": 81, "accel_y": 0}
+{"accel_z": 0, "accel_x": 81, "accel_y": 0}
+{"accel_z": 0, "accel_x": 82, "accel_y": 0}
+{"accel_z": 0, "accel_x": 82, "accel_y": 0}
+{"accel_z": 0, "accel_x": 83, "accel_y": 0}
+{"accel_z": 0, "accel_x": 83, "accel_y": 0}
+{"accel_z": 0, "accel_x": 84, "accel_y": 0}
+{"accel_z": 0, "accel_x": 84, "accel_y": 0}
+{"accel_z": 0, "accel_x": 85, "accel_y": 0}
+{"accel_z": 0, "accel_x": 85, "accel_y": 0}
+{"accel_z": 0, "accel_x": 86, "accel_y": 0}
+{"accel_z": 0, "accel_x": 86, "accel_y": 0}
+{"accel_z": 0, "accel_x": 87, "accel_y": 0}
+{"accel_z": 0, "accel_x": 87, "accel_y": 0}
+{"accel_z": 0, "accel_x": 88, "accel_y": 0}
+{"accel_z": 0, "accel_x": 88, "accel_y": 0}
+{"accel_z": 0, "accel_x": 89, "accel_y": 0}
+{"accel_z": 0, "accel_x": 89, "accel_y": 0}
+{"accel_z": 0, "accel_x": 90, "accel_y": 0}
+{"accel_z": 0, "accel_x": 90, "accel_y": 0}
+{"accel_z": 0, "accel_x": 91, "accel_y": 0}
+{"accel_z": 0, "accel_x": 91, "accel_y": 0}
+{"accel_z": 0, "accel_x": 92, "accel_y": 0}
+{"accel_z": 0, "accel_x": 92, "accel_y": 0}
+{"accel_z": 0, "accel_x": 93, "accel_y": 0}
+{"accel_z": 0, "accel_x": 93, "accel_y": 0}
+{"accel_z": 0, "accel_x": 94, "accel_y": 0}
+{"accel_z": 0, "accel_x": 94, "accel_y": 0}
+{"accel_z": 0, "accel_x": 95, "accel_y": 0}
+{"accel_z": 0, "accel_x": 95, "accel_y": 0}
+{"accel_z": 0, "accel_x": 96, "accel_y": 0}
+{"accel_z": 0, "accel_x": 96, "accel_y": 0}
+{"accel_z": 0, "accel_x": 97, "accel_y": 0}
+{"accel_z": 0, "accel_x": 97, "accel_y": 0}
+{"accel_z": 0, "accel_x": 98, "accel_y": 0}
+{"accel_z": 0, "accel_x": 98, "accel_y": 0}
+{"accel_z": 0, "accel_x": 99, "accel_y": 0}
+{"accel_z": 0, "accel_x": 99, "accel_y": 0}
+{"accel_z": 0, "accel_x": 100, "accel_y": 0}
+{"accel_z": 0, "accel_x": 100, "accel_y": 0}
+{"accel_z": 0, "accel_x": 101, "accel_y": 0}
+{"accel_z": 0, "accel_x": 101, "accel_y": 0}
+{"accel_z": 0, "accel_x": 102, "accel_y": 0}
+{"accel_z": 0, "accel_x": 102, "accel_y": 0}
+{"accel_z": 0, "accel_x": 103, "accel_y": 0}
+{"accel_z": 0, "accel_x": 103, "accel_y": 0}
+{"accel_z": 0, "accel_x": 104, "accel_y": 0}
+{"accel_z": 0, "accel_x": 105, "accel_y": 0}
+{"accel_z": 0, "accel_x": 106, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+connection to sensors data terminated
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 27, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 28, "accel_y": 0}
+{"accel_z": 0, "accel_x": 29, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 30, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 31, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 32, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 33, "accel_y": 0}
+{"accel_z": 0, "accel_x": 34, "accel_y": 0}
+{"accel_z": 0, "accel_x": 35, "accel_y": 0}
+{"accel_z": 0, "accel_x": 36, "accel_y": 0}
+{"accel_z": 0, "accel_x": 37, "accel_y": 0}
+{"accel_z": 0, "accel_x": 38, "accel_y": 0}
+{"accel_z": 0, "accel_x": 39, "accel_y": 0}
+{"accel_z": 0, "accel_x": 40, "accel_y": 0}
+{"accel_z": 0, "accel_x": 41, "accel_y": 0}
+{"accel_z": 0, "accel_x": 42, "accel_y": 0}
+{"accel_z": 0, "accel_x": 43, "accel_y": 0}
+{"accel_z": 0, "accel_x": 44, "accel_y": 0}
+{"accel_z": 0, "accel_x": 45, "accel_y": 0}
+{"accel_z": 0, "accel_x": 46, "accel_y": 0}
+connection to sensors data terminated
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 4, "accel_y": 0}
+{"accel_z": 0, "accel_x": 5, "accel_y": 0}
+{"accel_z": 0, "accel_x": 6, "accel_y": 0}
+{"accel_z": 0, "accel_x": 7, "accel_y": 0}
+{"accel_z": 0, "accel_x": 8, "accel_y": 0}
+{"accel_z": 0, "accel_x": 9, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 10, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 11, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 12, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 13, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 14, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 15, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 16, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 17, "accel_y": 0}
+{"accel_z": 0, "accel_x": 18, "accel_y": 0}
+{"accel_z": 0, "accel_x": 19, "accel_y": 0}
+{"accel_z": 0, "accel_x": 20, "accel_y": 0}
+{"accel_z": 0, "accel_x": 21, "accel_y": 0}
+{"accel_z": 0, "accel_x": 22, "accel_y": 0}
+{"accel_z": 0, "accel_x": 23, "accel_y": 0}
+{"accel_z": 0, "accel_x": 24, "accel_y": 0}
+{"accel_z": 0, "accel_x": 25, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+{"accel_z": 0, "accel_x": 26, "accel_y": 0}
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 0, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 1, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 2, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+{"accel_z": 0, "accel_x": 3, "accel_y": 0}
+no channel by that name
+no channel by that name
+no channel by that name
+no channel by that name
+connection to sensors data terminated
