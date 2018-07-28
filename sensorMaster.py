@@ -22,7 +22,7 @@ class SensorMaster:
     def execute(self):
         
         # intro message
-        print("Ascent Robotics Code Assignment: Sensor System")
+        print("Sensor System:")
         
         # initialize shared memory space within sensors master
         manager = mp.Manager()
