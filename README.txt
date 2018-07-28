@@ -33,8 +33,7 @@ The framework however does rely on the user to not use conflicting channel names
 Notes:
 
 The way the channels work is that they constantly clear buffer. What this means is that if the Sensor object is declared first and starts publishing to a channel previous to a subscriber subscribing.
-The SensorSubscriber will not receive a huge queue of the data previous to it connecting. This was done to avoid latency on connection and for real time sensor data, if the subcriber side fails to
-process at the same speed as the Sensor producing the data then programs can't react to real-time scenarios.
+The SensorSubscriber will not receive a huge queue of the data previous to it connecting. This was done to avoid latency on connection and for real time sensor data, if the subcriber side fails to process at the same speed as the Sensor producing the data then programs can't react to real-time scenarios.
 
 Demo Run Instructions:
 
