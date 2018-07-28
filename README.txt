@@ -48,7 +48,7 @@ Demo Run Instructions:
 4. Wait to see if the master comes up (it would be obvious as there's a print out)
 
 -------------------------------------- Print Out -------------------------------------------------
-Ascent Robotics Code Assignment: Sensor System
+Sensor System:
 Type 'q' to close master and end all child processes
 Sensor Master Listening for new client... 
 Sensor Master requires both a sensor and subscriber connection within 120s otherwise it will timeout
